@@ -26,9 +26,7 @@ Here are some ideas to get you started:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=youlookwhat&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 -->
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?theme=blueberry&username=MagicalZhu&repo=XDocs" />
-</a>
+
 <!--
 <a href="https://github.com/anuraghazra/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?theme=blueberry&username=MagicalZhu&repo=hello-algorithm" />
@@ -44,7 +42,10 @@ Here are some ideas to get you started:
 ### Hi there  👋
 - 😄 Nick: 花裤衩
 - 🔭 Focus on java
-- 💬 https://www.huakucha.top
+- 💬 [我的博客](https://www.huakucha.top)
+
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?theme=blueberry&show_owner=true&username=MagicalZhu&repo=XDocs)](https://github.com/MagicalZhu/XDocs)
 
 
 
