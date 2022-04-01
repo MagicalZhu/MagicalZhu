@@ -1,7 +1,6 @@
 
 **About me**
 - 😄 Nick: 花裤衩
-- 🔭 Focus on java
 - 💬 [Visit my blog](https://www.huakucha.top)
 - ❤️ I love writing java
 
