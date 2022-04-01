@@ -27,9 +27,21 @@ Here are some ideas to get you started:
 -->
 
 
-<img align="right" alt="youlookwhat's github stats" width="50%" src="https://github-readme-stats.vercel.app/api?username=MagicalZhu&theme=blueberry&show_icons=true&hide_border=true">
+<img align="right" 
+     alt="youlookwhat's github stats" width="50%" 
+     src="https://github-readme-stats.vercel.app/api?username=MagicalZhu&theme=blueberry&show_icons=true&hide_border=true&count_private=true">
+
 
 ### Hi there  👋
 - 😄 Nick: 花裤衩
 - 🔭 Focus on java
 - 💬 https://www.huakucha.top
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?theme=blueberry&username=MagicalZhu&repo=XDocs" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?theme=blueberry&username=MagicalZhu&repo=hello-algorithm" />
+</a>
+
+
