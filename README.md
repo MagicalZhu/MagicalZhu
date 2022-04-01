@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 -->
 
 
-<img align="right" alt="youlookwhat's github stats" width="50%" src="https://github-readme-stats.vercel.app/api?username=youlookwhat&show_icons=true&theme=vue&hide_border=true">
+<img align="right" alt="youlookwhat's github stats" width="50%" src="https://github-readme-stats.vercel.app/api?username=MagicalZhu&theme=blueberry&show_icons=true&hide_border=true">
 
 ### Hi there  👋
 - 😄 Nick: 花裤衩
