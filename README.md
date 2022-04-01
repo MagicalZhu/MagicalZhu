@@ -25,10 +25,7 @@ Here are some ideas to get you started:
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=youlookwhat&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 -->
-<!--
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-- 🎯 `Juejin` : https://juejin.cn/user/201965867640862/posts
--->
+
 
 <img align="right" alt="youlookwhat's github stats" width="50%" src="https://github-readme-stats.vercel.app/api?username=youlookwhat&show_icons=true&theme=vue&hide_border=true">
 
