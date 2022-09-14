@@ -12,14 +12,14 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/markdown/markdown.png"></code>
 
 
-| <a href="https://github.com/MagicalZhu"><img align="center" src="https://github-readme-stats.vercel.app/api?username=MagicalZhu&theme=blueberry&show_icons=true&hide_border=true&count_private=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/MagicalZhu/XDocs"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MagicalZhu&layout=compact&theme=blueberry&hide_border=true" /></a> |
+| <a href="https://github.com/MagicalZhu"><img align="center" src="https://github-readme-stats.vercel.app/api?username=MagicalZhu&theme=blueberry&show_icons=true&hide_border=true&count_private=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/MagicalZhu/NoteLib"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MagicalZhu&layout=compact&theme=blueberry&hide_border=true" /></a> |
 | ------------- | ------------- |
 
 #### Fav Repositories
 
 
-<a href="https://github.com/MagicalZhu/XDocs">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?theme=blueberry&show_owner=true&username=MagicalZhu&repo=XDocs" />
+<a href="https://github.com/MagicalZhu/NoteLib">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?theme=blueberry&show_owner=true&username=MagicalZhu&repo=NoteLib" />
 </a>
 <a href="https://github.com/MagicalZhu/hello-algorithm">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MagicalZhu&repo=hello-algorithm&theme=blueberry" />
