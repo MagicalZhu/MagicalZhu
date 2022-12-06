@@ -26,6 +26,6 @@
 ## Stats
 
 ![MagicalZhu profile](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MagicalZhu&theme=github_dark)
-![MagicalZhu github stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MagicalZhu&theme=github_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MagicalZhu&theme=github_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MagicalZhu&theme=github_dark)
+![](https://github.com/MagicalZhu/github-stats/blob/master/generated/overview.svg)
+![](https://github.com/MagicalZhu/github-stats/blob/master/generated/languages.svg)
+
