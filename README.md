@@ -16,16 +16,19 @@
 
 
 <a href="https://github.com/MagicalZhu/NoteLib">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?theme=github_light&show_owner=true&username=MagicalZhu&repo=NoteLib" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?theme=github_dark&show_owner=true&username=MagicalZhu&repo=NoteLib" />
 </a>
 <a href="https://github.com/MagicalZhu/hello-algorithm">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MagicalZhu&repo=hello-algorithm&theme=github_light" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MagicalZhu&repo=hello-algorithm&theme=github_dark" />
 </a>
 
 
 ## Stats
 
-![MagicalZhu profile](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MagicalZhu&theme=github_light)
-![](https://github.com/MagicalZhu/github-stats/blob/master/generated/overview.svg)
-![](https://github.com/MagicalZhu/github-stats/blob/master/generated/languages.svg)
+![MagicalZhu profile](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MagicalZhu&theme=github_dark)
+
+<a href="https://github.com/MagicalZhu/github-stats">
+  <img src="https://github.com/MagicalZhu/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only" />
+  <img src="https://github.com/MagicalZhu/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only" />
+</a>
 
