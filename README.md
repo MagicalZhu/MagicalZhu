@@ -25,7 +25,7 @@
 
 ## Stats
 
-![MagicalZhu profile](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MagicalZhu&theme=github_dark)
+![MagicalZhu profile](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MagicalZhu&theme=github_light)
 ![](https://github.com/MagicalZhu/github-stats/blob/master/generated/overview.svg)
 ![](https://github.com/MagicalZhu/github-stats/blob/master/generated/languages.svg)
 
