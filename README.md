@@ -16,10 +16,10 @@
 
 
 <a href="https://github.com/MagicalZhu/NoteLib">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?theme=github_dark&show_owner=true&username=MagicalZhu&repo=NoteLib" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?theme=github_light&show_owner=true&username=MagicalZhu&repo=NoteLib" />
 </a>
 <a href="https://github.com/MagicalZhu/hello-algorithm">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MagicalZhu&repo=hello-algorithm&theme=github_dark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MagicalZhu&repo=hello-algorithm&theme=github_light" />
 </a>
 
 
