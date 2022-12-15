@@ -1,18 +1,23 @@
+## 🦸🏻‍♂️ &nbsp;About Me
 
-**About me**
-- 😄 Nick: YuLiang Zhu
-- ❤️ I love writing java
-- 💬 [blog](https://blog.huakucha.top)
-- 💬 [NoteLib](https://www.huakucha.top)
+👋 &nbsp;Hi I'm YuLiang Zhu (Huakucha)
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/java/java.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/spring-boot/spring-boot.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>    
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/markdown/markdown.png"></code>
+✨ &nbsp;Front-end Engineer 🧑🏻‍💻 Focus on [Vue](https://github.com/vuejs/core) & [Spring]([https://github.com/vitejs/vite](https://github.com/spring-projects/spring-framework)) &nbsp; ✨
 
-#### Fav Repositories
+
+[📖 &nbsp;Blog](http://blog.huakucha.top/)
+&nbsp;|&nbsp;
+[✉️ &nbsp;NoteLib](https://www.blog.huakucha.top)
+
+
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/java/java.png"></code>&nbsp;
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/spring-boot/spring-boot.png"></code>&nbsp;
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>&nbsp;
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>&nbsp; 
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>&nbsp;
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/markdown/markdown.png"></code>&nbsp;
+
+## Fav Repositories
 
 
 <a href="https://github.com/MagicalZhu/NoteLib">
