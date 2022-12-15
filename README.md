@@ -1,8 +1,8 @@
-## 🦸🏻‍♂️ &nbsp;About Me
+## &nbsp;About Me
 
 👋 &nbsp;Hi I'm YuLiang Zhu (Huakucha)
 
-✨ &nbsp;Front-end Engineer 🧑🏻‍💻 Focus on [Vue](https://github.com/vuejs/core) & [Spring]([https://github.com/vitejs/vite](https://github.com/spring-projects/spring-framework)) &nbsp; ✨
+✨ &nbsp;Front-end Engineer 🧑🏻‍💻 &nbsp;✨
 
 
 [📖 &nbsp;Blog](http://blog.huakucha.top/)
@@ -23,9 +23,10 @@
 <a href="https://github.com/MagicalZhu/NoteLib">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?theme=github_dark&show_owner=true&username=MagicalZhu&repo=NoteLib" />
 </a>
-<a href="https://github.com/MagicalZhu/hello-algorithm">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MagicalZhu&repo=hello-algorithm&theme=github_dark" />
+<a href="https://github.com/MagicalZhu/vitesseDoc">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MagicalZhu&repo=vitesseDoc&theme=github_dark" />
 </a>
+
 
 
 ## Stats
