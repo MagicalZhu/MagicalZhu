@@ -21,10 +21,10 @@
 
 
 <a href="https://github.com/MagicalZhu/NoteLib">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?theme=github_dark&show_owner=true&username=MagicalZhu&repo=NoteLib" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?theme=cobalt&show_owner=true&username=MagicalZhu&repo=NoteLib" />
 </a>
 <a href="https://github.com/MagicalZhu/vitesseDoc">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MagicalZhu&repo=vitesseDoc&theme=github_dark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MagicalZhu&repo=vitesseDoc&theme=cobalt" />
 </a>
 
 
