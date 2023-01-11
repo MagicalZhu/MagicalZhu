@@ -1,6 +1,6 @@
 ## &nbsp;About Me
 
-👋 &nbsp;Hi I'm YuLiang Zhu (atu)
+👋 &nbsp;Hi I'm YuLiang Zhu (athu)
 
 ✨ &nbsp;Front-end Engineer 🧑🏻‍💻 &nbsp;✨
 
