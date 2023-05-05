@@ -7,7 +7,7 @@
 
 [📖 &nbsp;Blog](http://blog.huakucha.top/)
 &nbsp;|&nbsp;
-[✉️ &nbsp;NoteLib](https://www.huakucha.top)
+[✉️ &nbsp;NoteLib](https://wiki.huakucha.top)
 
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/java/java.png"></code>&nbsp;
