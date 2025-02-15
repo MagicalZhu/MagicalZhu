@@ -5,7 +5,7 @@
 ✨ &nbsp;Front-end Engineer 🧑🏻‍💻 &nbsp;✨
 
 
-[📖 &nbsp;Blog](https://www.huakucha.top/)
+[📖 &nbsp;Blog](https://www.antzhu.com/)
 
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/java/java.png"></code>&nbsp;
